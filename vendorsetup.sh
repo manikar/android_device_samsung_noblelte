@@ -1,1 +1,1 @@
-add_lunch_combo lineage_noblelte-userdebug
+add_lunch_combo rr_noblelte-userdebug
